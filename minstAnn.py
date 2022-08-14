@@ -9,7 +9,7 @@ h1 = 200 # Hidden layer 1
 h2 = 100 # Hidden layer 2
 ol = 10 # Output layer
 
-lr = 0.001
+lr = 0.0001
 
 # Initializing weights
 w0 = np.random.randn(h0, il)*np.sqrt(2/il)
